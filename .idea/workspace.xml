@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a69348d-3dae-4ea8-a5e7-932fe7b2ce4f" name="Default Changelist" comment="" />
+    <list default="true" id="3a69348d-3dae-4ea8-a5e7-932fe7b2ce4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,9 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YpxVXNoA4HXJUA0TI2BzbftnPs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../multiauth-custom" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,6 +67,7 @@
       <workItem from="1583666271305" duration="3367000" />
       <workItem from="1583673363056" duration="1278000" />
       <workItem from="1583743585042" duration="4541000" />
+      <workItem from="1583789458573" duration="34000" />
     </task>
     <servers />
   </component>
@@ -69,6 +75,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583789490148">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583789490148" />
     <state x="467" y="210" width="489" height="373" key="NewPhpClassDialog" timestamp="1583666379198">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -77,10 +87,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1583748462849" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583743588077">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583789460110">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583743588077" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583789460110" />
     <state x="395" y="27" width="633" height="741" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1583667747031">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
